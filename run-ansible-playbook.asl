@@ -4,11 +4,6 @@
     "States": {
       "PreProvision": {
         "Type": "Pass",
-        "Next": "Provision"
-      },
-      "Provision": {
-        "Type": "Task",
-        "Resource": "manageiq://provision_execute",
         "Next": "CreateDirectoryAndFile"
       },
       "CreateDirectoryAndFile":{
