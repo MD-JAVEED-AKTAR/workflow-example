@@ -13,7 +13,6 @@
           "RepositoryUrl": "https://github.com/MD-JAVEED-AKTAR/ansible-example",
           "RepositoryBranch": "main",
           "PlaybookName": "createDirectory.yml",
-          "Hosts.$": "$.ipaddress"
         },
         "Next": "Finished"
       },
