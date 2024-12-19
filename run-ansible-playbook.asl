@@ -17,7 +17,7 @@
         "Parameters": {
           "RepositoryUrl": "https://github.com/MD-JAVEED-AKTAR/ansible-example",
           "RepositoryBranch": "main",
-          "PlaybookName": "directory.yml",
+          "PlaybookName": "createDirectory.yml",
           "Hosts.$": "$.ipaddress"
         },
         "Next": "Finished"
